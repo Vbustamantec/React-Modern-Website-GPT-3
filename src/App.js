@@ -15,7 +15,7 @@ const App = () => {
           <Cta/>
           <Blog/>
           <Footer/>
-         </div>;
+        </div>;
 };
 
 export default App;
