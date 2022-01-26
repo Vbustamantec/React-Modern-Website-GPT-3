@@ -12,6 +12,7 @@ const App = () => {
           <Brand />
           <Whatgpt3/>
           <Features/>
+          <Possibility/>
           <Cta/>
           <Blog/>
           <Footer/>
